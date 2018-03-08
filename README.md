@@ -1,6 +1,7 @@
 # memobird-nw-app
 使用 NW.js 构建的简易的 [Memobird](https://www.memobird.shop/) 桌面程序。
 A simple [Memobird](https://www.memobird.shop/) desktop app built with NWjs.
+![demo](https://memobird.rosuh.me/demo.png)
 - - - - - 
 # 构建 & 使用
 
