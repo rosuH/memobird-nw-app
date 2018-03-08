@@ -1,0 +1,11 @@
+{
+    "name": "Memobird",
+    "version": "0.01",
+    "main": "index.html",
+    "window": {
+      "width": 1024,
+      "height": 768,
+      "title": "Memobird",
+      "transparent": true
+    }
+  }
