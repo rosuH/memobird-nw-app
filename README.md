@@ -1,4 +1,4 @@
-## update 2018-3-10 19:02:50
+## Update 2018-3-10 19:02:50
 - 增加了 electron 构建的版本，为一个安装包
 # memobird-nw-app
 使用 NW.js 构建的简易的 [Memobird](https://www.memobird.shop/) 桌面程序。
